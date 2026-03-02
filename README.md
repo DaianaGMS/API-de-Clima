@@ -1,0 +1,1 @@
+Foi usado HTML para criar a estrutura da página, CSS para definir o visual como cores e layout, e JavaScript para adicionar funcionalidade e interatividade, como a seleção das cidades e exibição da previsão do tempo.
